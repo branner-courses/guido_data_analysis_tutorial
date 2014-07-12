@@ -3,6 +3,8 @@
 
 ### Installation on Mac OS 10.9.4
 
+ * Dependencies: the most important dependency is `gfortran`, available through Homebrew's version of `gcc`.
+
  * **Python 2**: 
 
         virtualenv v_env2
