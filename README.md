@@ -26,4 +26,8 @@
 
    Information about non-`pip` dependencies for Scikit-Learn is available at http://stackoverflow.com/questions/2213551/installing-scipy-with-pip.
 
+### Module names
+
+ * Scikit-Learn is imported as `sklearn`.
+
 [end]
