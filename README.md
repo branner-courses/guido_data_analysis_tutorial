@@ -1,4 +1,5 @@
-Installation for use with tutorial: Sarah Guido, [Hands-On Data Analysis with Python](http://www.oscon.com/oscon2014/public/schedule/detail/34254).
+## Notes for Sarah Guido, [Hands-On Data Analysis with Python](http://www.oscon.com/oscon2014/public/schedule/detail/34254) Tutorial
+
 
 ### Installation on Mac OS 10.9.4
 
@@ -21,6 +22,6 @@ Installation for use with tutorial: Sarah Guido, [Hands-On Data Analysis with Py
         sudo pip3 install git+https://github.com/scikit-learn/scikit-learn.git
         pip install -Ur requirements_py34.txt
 
-   Information about non-`pip` dependencies is available at http://stackoverflow.com/questions/2213551/installing-scipy-with-pip.
+   Information about non-`pip` dependencies for Scikit-Learn is available at http://stackoverflow.com/questions/2213551/installing-scipy-with-pip.
 
 [end]
