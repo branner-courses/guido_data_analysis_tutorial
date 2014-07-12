@@ -1,9 +1,11 @@
 ## Notes for Sarah Guido, [Hands-On Data Analysis with Python](http://www.oscon.com/oscon2014/public/schedule/detail/34254) Tutorial
 
 
-### Installation on Mac OS 10.9.4
+### Installation on Mac OS 10.9.4, Using Pip
 
- * Dependencies: the most important dependency is `gfortran`, available through Homebrew's version of `gcc`.
+ * Dependencies:
+   * `Xcode` is necessary for its Command Line Tools.
+   * The most important dependency is `gfortran`, available through Homebrew's version of `gcc`.
 
  * **Python 2**: 
 
